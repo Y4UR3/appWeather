@@ -1,0 +1,13 @@
+.loading_title{
+    font-size: 3rem;
+    text-align: center;
+    margin-bottom: 1em; 
+    color: white;  
+}
+.loading_snp{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: aliceblue;
+    
+}
